@@ -17,7 +17,7 @@ from scripts.drawer import Drawer
 
 class Data:
     def __init__(self):
-        self.TOKEN = '5291898320:AAH094QRsz77i3mdnQZ_Mbyef4oftHGTNUA'
+        self.TOKEN = ''
         self.bot = telebot.TeleBot(self.TOKEN)
 
 
